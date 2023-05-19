@@ -133,4 +133,3 @@ update categoria set nombre_categoria = 'electronica_y_computacion' where nombre
 
 /*INTEGRANTES: REBECA GATICA, GABRIEL SILVA, MICHAEL PIZARRO, NELSON TOLEDO*/
 
-Hola
